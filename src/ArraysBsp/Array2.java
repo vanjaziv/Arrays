@@ -1,4 +1,4 @@
-package com.company;
+package ArraysBsp;
 
 public class Array2 {
         public static void main(String[] args) {
